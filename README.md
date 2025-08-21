@@ -36,10 +36,9 @@ Sou apaixonado por resolver problemas, criar soluções eficientes e aprender co
 ---
 
 ## 🌐 Onde me encontrar
-- 💼 [LinkedIn](https://linkedin.com/in/seu-usuario)  
+- 💼 [LinkedIn Em Breve...](https://github.com/ooliveirasdev/portifolio)  
 - 📷 [Instagram](https://instagram.com/seu-usuario)  
-- 🐦 [Twitter](https://twitter.com/seu-usuario)  
-- 📧 **seuemail@exemplo.com**
+- 📧 **ooliveirasdev@gmail.com**
 
 ---
 
