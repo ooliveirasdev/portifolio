@@ -9,7 +9,7 @@ Sou apaixonado por resolver problemas, criar soluções eficientes e aprender co
 - 💻 Desenvolvedor backend focado em **JavaScript** e **Java**  
 - 🔗 Experiência com APIs de pagamentos e desenvolvimento de API's
 - ☁️ Conhecimento em banco de dados relacionais e não relacionais ( MySQL, SQLite, MongoDB, Firebase )
-- 🎯 Sempre buscando melhorar minhas habilidades e contribuir com projetos open source  
+- 🎯 Sempre buscando melhorar minhas habilidades e me tornar um ótimo profissional no futuro
 
 ---
 
@@ -35,15 +35,15 @@ Sou apaixonado por resolver problemas, criar soluções eficientes e aprender co
 
 ## 📌 Projetos em destaque
 
-- 🔗 [API de Pagamentos](https://github.com/seu-usuario/api-pagamentos) – Integração com Mercado Pago e Firebase  
-- 🔗 [Sistema de Autenticação](https://github.com/seu-usuario/auth-system) – Login com JWT + MongoDB  
-- 🔗 [Dashboard de Vendas](https://github.com/seu-usuario/dashboard-vendas) – Estatísticas em tempo real  
+- 🔗 [Aplicação Discord](https://github.com/seu-usuario/api-pagamentos) – Aplicação utilizando Node.JS + Discord.js
+- 🔗 [Plugin Economia](https://github.com/seu-usuario/auth-system) – Plugin utilizando Java 8 + Paper API ( Minecraft Java )
+- 🔗 [Website Loja Informática](https://github.com/seu-usuario/dashboard-vendas) – Website Usando Next.js + Firebase ( Apenas Backend & Integração ao Frontend )
 
 ---
 
 ## 🌐 Onde me encontrar
-- 💼 [LinkedIn Em Breve...](https://github.com/ooliveirasdev/portifolio)  
-- 📷 [Instagram](https://instagram.com/seu-usuario)  
+- 💼 [Website](https://oliveira.alphadevss.com.br)  
+- 📷 [Instagram](https://www.instagram.com/ooliveira.dev/)
 - 📧 **ooliveirasdev@gmail.com**
 
 ---
