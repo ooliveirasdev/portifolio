@@ -31,6 +31,7 @@ Sou apaixonado por resolver problemas, criar soluções eficientes e aprender co
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
 </div>
+
 ---
 
 ## 📌 Projetos em destaque
