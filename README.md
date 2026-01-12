@@ -24,9 +24,12 @@ Sou apaixonado por resolver problemas, criar soluções eficientes e aprender co
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 
 </div>
+
 <div align="center">
+  
 ![SQL](https://img.shields.io/badge/SQL-Database-4479A1?style=flat)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
 </div>
 ---
 
