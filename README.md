@@ -17,8 +17,6 @@ Sou apaixonado por resolver problemas, criar soluções eficientes e aprender co
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-Database-4479A1?style=flat)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
@@ -26,7 +24,10 @@ Sou apaixonado por resolver problemas, criar soluções eficientes e aprender co
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 
 </div>
-
+<div align="center">
+![SQL](https://img.shields.io/badge/SQL-Database-4479A1?style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+</div>
 ---
 
 ## 📌 Projetos em destaque
