@@ -35,8 +35,8 @@ Sou apaixonado por resolver problemas, criar soluções eficientes e aprender co
 
 ## 📌 Projetos em destaque
 
-- 🔗 [Aplicação Discord](https://github.com/seu-usuario/api-pagamentos) – Aplicação utilizando Node.JS + Discord.js
-- 🔗 [Plugin Economia](https://github.com/seu-usuario/auth-system) – Plugin utilizando Java 8 + Paper API ( Minecraft Java )
+- 🔗 [Aplicação Discord](https://github.com/ooliveirasdev/liz-app) – Aplicação utilizando Node.JS + Discord.js
+- 🔗 [Plugin Economia](https://github.com/ooliveirasdev/toeconomy) – Plugin utilizando Java 8 + Paper API ( Minecraft Java )
 - 🔗 [Website Loja Informática](https://github.com/seu-usuario/dashboard-vendas) – Website Usando Next.js + Firebase ( Apenas Backend & Integração ao Frontend )
 
 ---
